@@ -1,2 +1,13 @@
 bbjhbhjvjh
 lorem78
+
+
+Write Security Rules that control access to Storage based on the contents of your Firestore Database.
+
+Feel free to customize the details, date, time, and other specifics to match your needs!
+
+
+
+
+
+
